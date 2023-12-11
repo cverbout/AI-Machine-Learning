@@ -8,7 +8,7 @@ A directory for my AI & Machine Learning related projects
 ### Fourtic Game Solver
 https://github.com/cverbout/fourtic
 
-The "Fourtic Game Solver" is a technical showcase in AI problem-solving, developed in Python with a focus on implementing a Negamax Depth Search algorithm for a 4x4 tic-tac-toe game variant. This project highlights skills in algorithmic optimization, game state management, and strategic move evaluation, efficiently processing complex game scenarios within a 5-second timeframe.
+The Fourtic Game Solver is a technical showcase in AI problem-solving, developed in Python with a focus on implementing a Negamax Depth Search algorithm for a 4x4 tic-tac-toe game variant. This project highlights skills in algorithmic optimization, game state management, and strategic move evaluation, efficiently processing complex game scenarios within a 5-second timeframe.
 
 ### Bug Rush Solver
 https://github.com/cverbout/bugrush
